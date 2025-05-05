@@ -388,6 +388,7 @@ p {
 }
 /*-- read more Button --*/
 .w3layouts-more {
+
     border: 1px solid #4362ca;
     color: #4362ca;
     font-size: 1em;
@@ -2536,5 +2537,10 @@ h3.w3agileits-title {
     margin: 1em 0;
 }
 }
-
+.card-img-top{
+    width: 35rem;
+}
+.card{
+    padding: 2rem 1rem;
+}
 /*-- //responsive-design --*/
